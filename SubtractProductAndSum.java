@@ -1,4 +1,4 @@
-// 1281.Subtract the Product and Sum of Digits of an Integer
+// Leetcode 1281.Subtract the Product and Sum of Digits of an Integer
 public class SubtractProductAndSum {
     public static int subtractProductAndSum(int n) {
         int product = 1;
