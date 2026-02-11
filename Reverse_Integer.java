@@ -1,4 +1,4 @@
-// 7.Reverse Integer
+// Leetcode 7.Reverse Integer
 public class Reverse_Integer {
     public int reverse(int x) {
         int rev = 0;
